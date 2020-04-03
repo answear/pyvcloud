@@ -1,3 +1,4 @@
+# -*- coding: future_fstrings -*-
 # VMware vCloud Director Python SDK
 # Copyright (c) 2014-2019 VMware, Inc. All Rights Reserved.
 #
